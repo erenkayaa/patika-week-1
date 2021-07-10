@@ -1,4 +1,4 @@
-SORU 1:
+--SORU 1:
 
 CREATE TABLE employee(
 	id SERIAL PRIMARY KEY,
@@ -9,7 +9,7 @@ CREATE TABLE employee(
 );
 
 
-SORU2:
+-- SORU2:
 
 insert into employee (name, birthday, email) values ('Cele', '1967-07-08', 'ckeddle0@hatena.ne.jp');
 insert into employee (name, birthday, email) values ('Heath', '1942-11-13', 'hhammerberger1@alibaba.com');
